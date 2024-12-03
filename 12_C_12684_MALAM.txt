@@ -1,0 +1,5 @@
+1. exception handlibg itu bertujuan untuk membantu system biar lebih stabil karena error bisa ditangani dengan baik tanpa membuat aplikasi berhenti total, selain itru, pesan error yang jelas membantu pengguna dan developer memahami masalah.
+
+2. try catch berguna untuk menangkap error yang mungkin terjadi di kode, kode ini juga membuat kode Utama.
+
+3. Modular Fleksibel
